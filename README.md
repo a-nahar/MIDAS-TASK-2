@@ -10,6 +10,8 @@ for part 1 The repo  is : MIDAS_TASK_2_PART_1
     part 2 The repo  is : MIDAS_TASK_2_PART_2
     part 3 The repo  is : MIDAS_TASK_2_PART_3
     
+The pretrained model file is also uploaded on the repo.
+    
 I have used the Keras api (tensorflow backend) to build the model,and use the Google colab platform.
 
 All the refernce material is being attached at the end of the part 1 Notebook.
@@ -29,6 +31,8 @@ All the refernce material is being attached at the end of the part 1 Notebook.
 
 
 Dataset link for the part 1 : https://www.dropbox.com/s/pan6mutc5xj5kj0/trainPart1.zip
+
 Dataset link for the part 2 : http://yann.lecun.com/exdb/mnist/
+
 Dataset Link for the part 3 : https://www.dropbox.com/s/otc12z2w7f7xm8z/mnistTask3.zip?dl=0
 
