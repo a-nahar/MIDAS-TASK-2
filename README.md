@@ -1,7 +1,7 @@
 # MIDAS-TASK-2
 
 #### This task is divided into three parts-
-1) Create A Cnn network for a mullticlass classifiaction
+1) Create A CNN network for a multiclass classifiaction
 2) Train the Model on the Mnist dataset, by using the pretrained model part-1
 3) Train the model on the Provided noisy dataset,and test the accuracy on Mnist test set.
 
