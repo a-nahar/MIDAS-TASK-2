@@ -6,11 +6,11 @@
 3) Train the model on the Provided noisy dataset,and test the accuracy on Mnist test set.
 
 #### This repo Consists 3 Notbooks for each part of the task, Compelete explantion is provided in notebook itlself
-    part 1 The repo  is : MIDAS_TASK_2_PART_1
+    part 1 The notebook  is : MIDAS_TASK_2_PART_1
 
-    part 2 The repo  is : MIDAS_TASK_2_PART_2
+    part 2 The notebook  is : MIDAS_TASK_2_PART_2
     
-    part 3 The repo  is : MIDAS_TASK_2_PART_3
+    part 3 The notebook  is : MIDAS_TASK_2_PART_3
     
 #### The pretrained model file is also uploaded on the repo.
     
