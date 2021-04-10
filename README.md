@@ -14,7 +14,8 @@ I have used the Keras api (tensorflow backend) to build the model,and use the Go
 
 All the refernce material is being attached at the end of the part 1 Notebook.
 
-### Version of the Library used in Notebooks:
+
+###(REQUIREMENTS) Version of the Library used in Notebooks:
 
 ----phython version     : 3.7.10
 
