@@ -29,7 +29,7 @@
     matplotlib version  : 3.2.2
 
 #### There is alot of work is done on hyperparameter tunning,Model selection,etc.
-#### A complete experiment log(jyputer notebook) is available on the repo(EXPERIMENT_LOG).
+#### A complete experiment log(jyputer notebook) is available on the repo(EXPERIMENT_LOG) which explained what things worked and whats not worked with the explanation.
 
 #### DATASETS LINKS:
 
